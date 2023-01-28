@@ -37,5 +37,150 @@
   > + **[Original paper](https://aclanthology.org/2021.acl-long.556/)**
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2022_Paper_Reviews/05_Hate%20Speech%20Detection%20based%20on%20Sentiment%20Knowledge%20Sharing%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)**  
   > + **presentor**: Seyoung Lee   
-  > + **Date**: Feburary 15, 2022  
+  > + **Date**: March 2, 2022  
 
+* **06: Concept and Application of Deep learning-based Automatic Spacing**   
+  > + **[Original paper](https://koreascience.kr/article/CFKO201832073078638.page)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2022_Paper_Reviews/06_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%AC%B8%EC%9E%A5%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%9C%20%EB%94%A5%20%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EB%8F%99%20%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9.pdf)**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: March 9, 2022  
+
+* **07: CTRL: A Conditional Transformer Language Model For Controllable Generation**   
+  > + **[Original paper](https://arxiv.org/abs/1909.05858)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2022_Paper_Reviews/07_CTRL%20A%20Conditional%20Transformer%20Language%20Model%20For%20Controllable%20Generation.pdf)**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: April 20, 2022  
+
+* **08: What does BERT look at? An analysis of BERT's Attention**   
+  > + **[Original paper](https://arxiv.org/abs/1906.04341)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2022_Paper_Reviews/08_What%20does%20BERT%20look%20at.pdf)**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: May 11, 2022 
+
+* **09: Solving imageNet: a Unified Scheme for Training any Backbone to Top Results**   
+  > + **[Original paper](https://arxiv.org/abs/2204.03475)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2022_Paper_Reviews/09_Solving%20imageNet%20and%20Align%20before%20Fuse.pdf)**  
+  > + **presentor**: Jihyun Lee   
+  > + **Date**: June 1, 2022   
+
+* **10: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation**   
+  > + **[Original paper](https://proceedings.neurips.cc/paper/2021/hash/505259756244493872b7709a8a01b536-Abstract.html)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee   
+  > + **Date**: June 1, 2022
+
+* **11: 악성 댓글에 대한 한국어 혐오표현 및 편견 탐지 분류 모형 결과 분석 및 개선방안 연구**   
+  > + As this presentation is an idea proposal presentation, did not upload the presentation material.
+  > + [Paper Link](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11175766)
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: June 8, 2022
+
+* **12: UROP Idea Proposal Presentation**   
+  > + As this presentation is an idea proposal presentation, did not upload the presentation material.
+  > + **presentor**: Miju Kim, Yeonjae Lee, Soyeon Choi   
+  > + **Date**: June 29, 2022
+
+* **13: Deep High-Resolution Representation Learning for Human Pose Estimation**   
+  > + **[Original paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.html)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee    
+  > + **Date**: July 6, 2022
+
+* **14: ViLBERT**   
+  > + **[Original paper](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: July 13, 2022 
+
+* **15: Introduction to Sequential Recommender Systems**   
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee   
+  > + **Date**: July 14, 2022   
+
+* **16: Natural Language Processing -RNN 부터 BERT까지-**   
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: July 30, 2022
+
+* **17: Wide & Deep Learning for Recommender Systems**   
+  > + **[Original paper](https://dl.acm.org/doi/abs/10.1145/2988450.2988454)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee    
+  > + **Date**: August 13, 2022
+
+* **18: Experience Report : Deep Learning-based System Log Analysis for Anomaly Detection(2022)**   
+  > + As this presentation is an UROP project presentation, did not upload the presentation material.
+  > + **presentor**: Miju Kim, Yeonjae Lee, Soyeon Choi   
+  > + **Date**: August 30, 2022
+
+* **19: DeepSpeech2 End-to-End Speech Recognition in English and Mandarin**   
+  > + **[Original paper](http://proceedings.mlr.press/v48/amodei16.html?ref=https://codemonkey.link)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: September 6, 2022
+
+* **20: Connectionist Temporal Classification : Labelling Unsegmented Sequence Data with Recurrent Neural Networks**   
+  > + **[Original paper](https://dl.acm.org/doi/abs/10.1145/1143844.1143891)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee    
+  > + **Date**: September 20, 2022 
+
+* **21: Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs**   
+  > + **[Original paper](https://ieeexplore.ieee.org/abstract/document/9338283/)**
+  > + **[Presentation]()**  
+  > + **presentor**: Miju Kime, Yeonjae Lee   
+  > + **Date**: September 27 ~ October 11, 2022   
+
+* **22: PseCo: Pseudo Labeling and Consistenty Training for Semi-Supervised Object Detection **   
+  > + **[Original paper](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_27)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee   
+  > + **Date**: October 18, 2022
+
+* **23: Preech: A System for Privacy-Preserving Speech Transcription**   
+  > + **[Original paper](https://www.usenix.org/system/files/sec20-ahmed-shimaa.pdf)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee    
+  > + **Date**: October 25, 2022
+
+* **24: Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation**   
+  > + **[Original paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482209)**
+  > + **[Presentation]()**  
+  > + **presentor**: Miju Kime, Yeonjae Lee   
+  > + **Date**: November 1, 2022
+
+* **25: ICAN: Instance-Centric Attention Network for Human-Object Interaction Detection**   
+  > + **[Original paper](https://arxiv.org/abs/1808.10437)**
+  > + **[Presentation]()**  
+  > + **presentor**: Soyeon Choi   
+  > + **Date**: November 9, 2022
+
+* **26: Image as a Foreign Language: BEiT Pretraining for All vision-Language Tasks**   
+  > + **[Original paper](https://arxiv.org/abs/2208.10442)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee    
+  > + **Date**: November 15, 2022 
+
+* **27: CORN: Deep Neural Networks forRank-Consistent Ordinal RegressionBased On Conditional Probabilities**   
+  > + **[Original paper](https://arxiv.org/abs/2111.08851)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: November 22, 2022   
+
+* **28: Unsupervised Domain Adaptation by Backpropagation**   
+  > + **[Original paper](http://proceedings.mlr.press/v37/ganin15.html)**
+  > + **[Presentation]()**  
+  > + **presentor**: Miju Kime, Yeonjae Lee   
+  > + **Date**: November 29, 2022   
+
+* **29: (SASRec)Self-Attentive Sequential Recommendation**   
+  > + **[Original paper](https://ieeexplore.ieee.org/abstract/document/8594844)**
+  > + **[Presentation]()**  
+  > + **presentor**: Jihyun Lee   
+  > + **Date**: December 13, 2022   
+
+* **30: ORDINAL LEARNING FOR EMOTION RECOGNITION IN CUSTOMER SERVICE CALLS**   
+  > + **[Original paper](https://ieeexplore.ieee.org/abstract/document/9053648)**
+  > + **[Presentation]()**  
+  > + **presentor**: Seyoung Lee   
+  > + **Date**: December 20, 2022   
