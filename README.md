@@ -8,4 +8,3 @@ desciription
 ### Seasons   
 * [2023 Paper Reivews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2023_Paper_Reviews)
 * [2022 Paper Reviews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2022_Paper_Reviews)
-* [2021 Paper Reviews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2021_Paper_Reviews)
