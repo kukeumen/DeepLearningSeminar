@@ -1,10 +1,10 @@
 # 2021 Paper Reivews   
 
 ### Summary   
+|Subject|num|
+|-----|-----|
 |Vision|1|
 |RecSys|1|
-|etc|1|
-|ML|1|
 
 
 ### Presentations
