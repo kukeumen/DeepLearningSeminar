@@ -1,7 +1,7 @@
 # 2023 Paper Reivews   
 
 ### Summary   
-|Subject|num|
+|Subject|count|
 |-----|-----|
 |Vision|1|
 |NLP|1|
