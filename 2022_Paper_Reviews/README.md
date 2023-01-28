@@ -1,13 +1,5 @@
 # 2022 Paper Reivews   
 
-### Summary   
-|Subject|count|
-|-----|-----|
-|Vision|1|
-|NLP|1|
-|ETC|1|
-
-
 ### Presentations
 * **01: HABERTOR_An Efficient and Effective Deep Hatespeech Detector**   
   > + **[Original Paper Link](https://arxiv.org/abs/2010.08865)**
