@@ -7,7 +7,5 @@ Study Member: Seyoung Lee(leader), Jihyun Lee, Miju Kim, Yeonjae Lee, Soyeon Cho
 
 ### Seasons   
 * [2023 Paper Reivews](https://www.naver.com/)
-* [2022 Paper Reviews][2022 Link]
-  [2022 Link]:https://www.naver.com/
-* [2021 Paper Reviews][2021 Link]
-  [2021 Link]:https://www.naver.com/
+* [2022 Paper Reviews](https://www.naver.com/)
+* [2021 Paper Reviews](https://www.naver.com/)
