@@ -2,8 +2,8 @@
 desciription
 
 ### maintainers   
-Advisor:  Ph.D Saerom Park   
-Study Member: Seyoung Lee(leader), Jihyun Lee, Miju Kim, Yeonjae Lee, Soyeon Choi, Suji Choi, Nakyoung Han   
+**Advisor**:  Ph.D Saerom Park   
+**Study Member**: Seyoung Lee(leader), Jihyun Lee, Miju Kim, Yeonjae Lee, Soyeon Choi, Suji Choi, Nakyoung Han   
 
 ### Seasons   
 * [2023 Paper Reivews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2023_Paper_Reviews)
