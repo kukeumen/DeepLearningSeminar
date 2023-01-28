@@ -17,7 +17,7 @@
 
 * **02: LogTT : Transformer-based Transferable Log Anomaly Detection**   
   > + As this presentation is an idea proposal presentation, did not upload the presentation material.
-  > + **presentor**: Miju Kim, Yeonjae Choi
+  > + **presentor**: Miju Kim, Yeonjae Lee
   > + **Date**: January 17, 2023   
 
 * **03: ChatGPT_ Optimizing Language Models for Dialogue**
