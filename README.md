@@ -6,7 +6,7 @@ Review one deep learning paper every week.
 **Advisor**:  Ph.D Saerom Park   
 **Study Member**   
 - Seyoung Lee(leader) [[github]](https://github.com/kukeumen/) [[profile]](https://career.programmers.co.kr/pr/20171966_237)
-- Jihyun Lee [[github]](https://github.com/easy-note)
+- Jihyun Lee [[github]](https://github.com/easy-note) [[profile]](https://cooked-beanie-dab.notion.site/AI-Research-Engineer-96463802dc524ef1ba34688642adf022)
 - Miju Kim
 - Yeonjae Lee
 - Soyeon Choi
