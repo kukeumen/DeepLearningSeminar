@@ -4,7 +4,14 @@ Review one deep learning paper every week.
 
 ### maintainers   
 **Advisor**:  Ph.D Saerom Park   
-**Study Member**: Seyoung Lee(leader), Jihyun Lee, Miju Kim, Yeonjae Lee, Soyeon Choi, Suji Choi, Nakyung Han   
+**Study Member**   
+- Seyoung Lee(leader) [[github]](https://github.com/kukeumen/) [[profile]](https://career.programmers.co.kr/pr/20171966_237)
+- Jihyun Lee
+- Miju Kim
+- Yeonjae Lee
+- Soyeon Choi
+- Suji Choi
+- Nakyung Han   
 
 ### Paper Review   
 * [2023 Paper Reivews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2023_Paper_Reviews)
