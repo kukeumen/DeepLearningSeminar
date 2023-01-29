@@ -18,6 +18,6 @@ Review one deep learning paper every week.
 * [2022 Paper Reviews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2022_Paper_Reviews)
 
 ### News
-* 2022 Winter Suji Choi and Nakyung Han are join our team!
-* 2022 Miju Kim, Yeonjae Lee and Soyeon Choi are join our team!
-* 2021 Begin the seminar!
+* 2022 Winter,  Suji Choi and Nakyung Han are join our team!
+* 2022,  Miju Kim, Yeonjae Lee and Soyeon Choi are join our team!
+* 2021,  Begin the seminar!
