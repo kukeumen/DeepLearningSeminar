@@ -9,7 +9,7 @@ Review one deep learning paper every week.
 - Jihyun Lee [[github]](https://github.com/easy-note) [[profile]](https://cooked-beanie-dab.notion.site/AI-Research-Engineer-96463802dc524ef1ba34688642adf022)
 - Miju Kim
 - Yeonjae Lee
-- Soyeon Choi
+- Soyeon Choi [[github]](https://github.com/Min-yeon)
 - Suji Choi
 - Nakyoung Han [[github]](https://github.com/nakyoungs2)   
 
