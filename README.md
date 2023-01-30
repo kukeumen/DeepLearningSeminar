@@ -2,7 +2,7 @@
 매주 한 편의 딥러닝 논문을 리뷰합니다.    
 Review one deep learning paper every week.
 
-### maintainers   
+### Maintainers   
 **Advisor**:  Ph.D Saerom Park   
 **Study Member**   
 - Seyoung Lee(leader) [[github]](https://github.com/kukeumen/) [[profile]](https://career.programmers.co.kr/pr/20171966_237)
