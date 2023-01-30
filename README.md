@@ -11,7 +11,7 @@ Review one deep learning paper every week.
 - Yeonjae Lee
 - Soyeon Choi
 - Suji Choi
-- Nakyung Han   
+- Nakyoung Han [[github]](https://github.com/nakyoungs2)   
 
 ### Paper Review   
 * [2023 Paper Reivews](https://github.com/kukeumen/DeepLearningSeminar/tree/main/2023_Paper_Reviews)
