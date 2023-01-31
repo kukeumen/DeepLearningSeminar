@@ -7,10 +7,10 @@ Review one deep learning paper every week.
 **Study Member**   
 - Seyoung Lee(leader) [[github]](https://github.com/kukeumen/) [[profile]](https://career.programmers.co.kr/pr/20171966_237)
 - Jihyun Lee [[github]](https://github.com/easy-note) [[profile]](https://cooked-beanie-dab.notion.site/AI-Research-Engineer-96463802dc524ef1ba34688642adf022)
-- Miju Kim
-- Yeonjae Lee
+- Miju Kim [[github]](https://github.com/mmiiioun)
+- Yeonjae Lee [[github]](https://github.com/01rkozrl)
 - Soyeon Choi [[github]](https://github.com/Min-yeon)
-- Suji Choi
+- Suzy Choi [[github]](https://github.com/suzy1028)
 - Nakyoung Han [[github]](https://github.com/nakyoungs2)   
 
 ### Paper Review   
