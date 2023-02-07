@@ -20,6 +20,6 @@
 
 * **04: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
   > + **Original Papers**: [BERT](https://arxiv.org/pdf/1810.04805.pdf)
-  > + **[Presentation](2023_Paper_Reviews/BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf)**
   > + **Presentor**: Nakyoung Han
   > + **Date**: February 7, 2023
