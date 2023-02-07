@@ -17,3 +17,8 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/ChatGPT_%20Optimizing%20Language%20Models%20for%20Dialogue.pdf)**
   > + **presentor**: Jihyun Lee
   > + **Date**: January 24, 2023
+
+* **04: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**
+  > + **Original Papers**: [BERT] (https://arxiv.org/pdf/1810.04805.pdf)
+  > + **Presentor**: Nakyoung Han
+  > + **Date**: February 7, 2023
