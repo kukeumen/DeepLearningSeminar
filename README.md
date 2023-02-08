@@ -21,6 +21,6 @@ Review one deep learning paper every week.
 [[google calendar]](https://calendar.google.com/calendar/embed?src=1b43d83d31e7d61f16f1700dc6878d8d3c2d3670510075dce920b7509f607b66%40group.calendar.google.com&ctz=Asia%2FSeoul)
 
 ### News
-* 2022 Winter,  Su Choi and Nakyung Han are join our team!
+* 2022 Winter,  Su Choi and Nakyoung Han are join our team!
 * 2022,  Miju Kim, Yeonjae Lee and Soyeon Choi are join our team!
 * 2021,  Begin the seminar!
