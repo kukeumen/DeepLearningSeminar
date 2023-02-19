@@ -23,3 +23,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf)**
   > + **Presentor**: Nakyoung Han
   > + **Date**: February 7, 2023
+  
+  * **05: Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery**
+  > + **Original Papers**: (https://arxiv.org/pdf/1703.05921.pdf)
+  > + **[Presentation](2023_Paper_Reviews/Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery.pdf)**
+  > + **Presentor**: Miju Kim
+  > + **Date**: February 15, 2023
