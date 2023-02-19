@@ -27,5 +27,5 @@
   * **05: Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery**
   > + **Original Papers**: (https://arxiv.org/pdf/1703.05921.pdf)
   > + **[Presentation](2023_Paper_Reviews/Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery.pdf)**
-  > + **Presentor**: Miju Kim
+  > + **Presentor**: Miju Kim 
   > + **Date**: February 15, 2023
