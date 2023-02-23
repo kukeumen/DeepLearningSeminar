@@ -34,7 +34,7 @@
 
 * **07: WaveNet**
   > + **Original Papers**: [WaveNet](https://arxiv.org/abs/1609.03499)
-  > + **Presentation
+  > + **Presentation**
   > + **Presentor**: Seyoung Lee
   > + **Date**: February 28, 2023
   
