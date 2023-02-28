@@ -34,7 +34,7 @@
 
 * **07: WaveNet**
   > + **Original Papers**: [WaveNet](https://arxiv.org/abs/1609.03499)
-  > + **Presentation**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/WaveNet.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: February 28, 2023
   
