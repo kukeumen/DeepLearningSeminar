@@ -38,3 +38,8 @@
   > + **Presentor**: Seyoung Lee
   > + **Date**: February 28, 2023
   
+* **08: You Only Look Once:Unified, Real-Time Object Detection**
+  > + **Original Papers**: [YOLO v1](https://arxiv.org/pdf/1506.02640.pdf)
+  > + **[Presentation]**
+  > + **Presentor**: Soyeon Choi
+  > + **Date**: March 7, 2023
