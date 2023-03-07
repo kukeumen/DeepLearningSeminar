@@ -40,6 +40,6 @@
   
 * **08: You Only Look Once:Unified, Real-Time Object Detection**
   > + **Original Papers**: [YOLO v1](https://arxiv.org/pdf/1506.02640.pdf)
-  > + **[Presentation]**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/you%20only%20look%20once.pdf)**
   > + **Presentor**: Soyeon Choi
   > + **Date**: March 7, 2023
