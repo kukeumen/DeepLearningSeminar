@@ -43,3 +43,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/you%20only%20look%20once.pdf)**
   > + **Presentor**: Soyeon Choi
   > + **Date**: March 7, 2023
+  
+* **09: Automatic Composition using Time Series Embedding of RNN Auto-Encoder**
+  > + **Original Papers** : [Automatic Composition using Time Series Embedding of RNN Auto-Encoder](http://koreascience.or.kr/article/JAKO201829562509737.page)
+  > + ** [Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Automatic Composition using Time Series Embedding of RNN Auto-Encoder.pdf)
+  > + **Presentor**: Suzy Choi
+  > + **Date**: March 14, 2023
