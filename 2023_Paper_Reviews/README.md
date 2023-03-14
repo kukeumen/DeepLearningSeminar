@@ -46,6 +46,6 @@
   
 * **09: Automatic Composition using Time Series Embedding of RNN Auto-Encoder**
   > + **Original Papers** : [Automatic Composition using Time Series Embedding of RNN Auto-Encoder](http://koreascience.or.kr/article/JAKO201829562509737.page)
-  > + ** [Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Automatic Composition using Time Series Embedding of RNN Auto-Encoder.pdf)**
+  > + ** [Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Automatic%20Composition%20using%20Time%20Series%20Embedding%20of%20RNN%20Auto-Encoder.pdf)**
   > + **Presentor**: Suzy Choi
   > + **Date**: March 14, 2023
