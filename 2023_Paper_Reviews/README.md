@@ -50,8 +50,8 @@
   > + **Presentor**: Suzy Choi
   > + **Date**: March 14, 2023
 
-* **10: Latent Diffusion Models(LDMs)**
-  > + **Original Papers**: [LDMs](https://arxiv.org/abs/2112.10752)
+* **10: High-Resolution Image Synthesis With Latent Diffusion Models**
+  > + **Original Papers**: [Latent Diffusion Models(LDMs)](https://arxiv.org/abs/2112.10752)
   > + **[Presentation]()**
   > + **Presentor**: Miju Kim
   > + **Date**: March 22, 2023
