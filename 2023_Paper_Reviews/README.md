@@ -49,3 +49,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Automatic%20Composition%20using%20Time%20Series%20Embedding%20of%20RNN%20Auto-Encoder.pdf)**
   > + **Presentor**: Suzy Choi
   > + **Date**: March 14, 2023
+
+* **10: Latent Diffusion Models(LDMs)**
+  > + **Original Papers**: [LDMs](https://arxiv.org/abs/2112.10752)
+  > + **[Presentation]()**
+  > + **Presentor**: Miju Kim
+  > + **Date**: March 22, 2023
