@@ -52,6 +52,6 @@
 
 * **10: High-Resolution Image Synthesis With Latent Diffusion Models**
   > + **Original Papers**: [Latent Diffusion Models(LDMs)](https://arxiv.org/abs/2112.10752)
-  > + **[Presentation]()**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/High-Resolution%20Image%20Synthesis%20With%20Latent%20Diffusion%20Models.pdf)**
   > + **Presentor**: Miju Kim
   > + **Date**: March 22, 2023
