@@ -55,3 +55,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/High-Resolution%20Image%20Synthesis%20With%20Latent%20Diffusion%20Models.pdf)**
   > + **Presentor**: Miju Kim
   > + **Date**: March 22, 2023
+
+* **11: XLNet: Generalized Autoregressive Pretraining for Language Understanding**
+  > + **Original Papers**: [XLNet](https://arxiv.org/pdf/1906.08237.pdf)
+  > + **[Presentation]()**
+  > + **Presentor**: Nakyoung Han
+  > + **Date**: April 4, 2023
