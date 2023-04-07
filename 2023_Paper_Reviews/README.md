@@ -58,6 +58,6 @@
 
 * **11: XLNet: Generalized Autoregressive Pretraining for Language Understanding**
   > + **Original Papers**: [XLNet](https://arxiv.org/pdf/1906.08237.pdf)
-  > + **[Presentation](2023_Paper_Reviews/XLNet_ Generalized Autoregressive Pretraining for Language Understanding.pdf)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/XLNet_%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf)**
   > + **Presentor**: Nakyoung Han
   > + **Date**: April 4, 2023
