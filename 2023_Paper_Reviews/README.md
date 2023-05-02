@@ -61,3 +61,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/XLNet_%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf)**
   > + **Presentor**: Nakyoung Han
   > + **Date**: April 4, 2023
+
+* **12: GPT Understands, Too.**
+  > + **Original Papers**: [GPT Understands, Too.](https://arxiv.org/abs/2103.10385)
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/XLNet_%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf)**
+  > + **Presentor**: Seyoung Lee
+  > + **Date**: May 2, 2023
