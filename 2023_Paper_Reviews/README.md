@@ -64,6 +64,6 @@
 
 * **12: GPT Understands, Too.**
   > + **Original Papers**: [GPT Understands, Too.](https://arxiv.org/abs/2103.10385)
-  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/XLNet_%20Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf)**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/GPT_Understands_too_ppt.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: May 2, 2023
