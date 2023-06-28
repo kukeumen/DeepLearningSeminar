@@ -67,3 +67,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/GPT_Understands_too_ppt.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: May 2, 2023
+
+* **18: Learning Deep Features for Discriminative Localization**
+  > + **Original Papers**: [CAM(Class Activation Maps)](https://arxiv.org/abs/1512.04150)
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf)**
+  > + **Presentor**: Miju Kim
+  > + **Date**: June 28, 2023
