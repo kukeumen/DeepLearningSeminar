@@ -73,3 +73,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf)**
   > + **Presentor**: Miju Kim
   > + **Date**: June 28, 2023
+
+* **19: NMT Tutorial**
+  > + As this presentation is an idea proposal presentation, did not upload the presentation material.
+  > + **[Presentation]()**
+  > + **Presentor**: Seyoung Lee
+  > + **Date**: July 29, 2023
