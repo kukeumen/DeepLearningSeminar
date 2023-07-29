@@ -76,6 +76,6 @@
 
 * **19: NMT Tutorial**
   > + As this presentation is an idea proposal presentation, did not upload the presentation material.
-  > + **[Presentation]()**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/NMT_Tutorial.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: July 29, 2023
