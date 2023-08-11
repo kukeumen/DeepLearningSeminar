@@ -75,7 +75,14 @@
   > + **Date**: June 28, 2023
 
 * **19: NMT Tutorial**
-  > + As this presentation is an idea proposal presentation, did not upload the presentation material.
+  > + As this presentation is an idea proposal presentation, did not upload the paper material.
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/NMT_Tutorial.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: July 29, 2023
+
+* **20: Grid Beam Search**
+  > + **Original Papers**: [Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search](https://aclanthology.org/P17-1141/)
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Grid_Beam_Search.pdf)**
+  > + **Presentor**: Seyoung Lee
+  > + **Date**: Aug 12, 2023
+
