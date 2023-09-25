@@ -86,3 +86,8 @@
   > + **Presentor**: Seyoung Lee
   > + **Date**: Aug 12, 2023
 
+* **21: cross attention network for few-shot classification**
+  > + **Original Papers**: [cross attention network for few-shot classification](https://arxiv.org/abs/1910.07677)
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/CAN.pdf)**
+  > + **Presentor**: Miju Kim
+  > + **Date**: Sep 22, 2023
