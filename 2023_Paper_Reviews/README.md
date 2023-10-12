@@ -94,6 +94,6 @@
 
 * **22: Robust Speech Recognition via Large-Scale Weak Supervision**
   > + **Original Papers**: [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
-  > + **[Presentation]**
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/main/2023_Paper_Reviews/Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)**
   > + **Presentor**: Seyoung Lee
   > + **Date**: Oct 10, 2023
